@@ -1,0 +1,4 @@
+My First RAG Project.
+
+RAG stands for Retrieval Augumented Generation.
+It combines information retrieval with LLM generation.
